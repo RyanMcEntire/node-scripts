@@ -11,7 +11,7 @@ function generateText(date) {
     month: 'long',
     day: 'numeric',
     year: 'numeric', // \n for line breaks.
-  })}\n\n#### Tasks\n\n- x\n\n#### What I Did\n\n- x\n\n---\n\n`;
+  })}\n\n### Tasks\n\n- x\n\n### Coding\n\n- x\n\n### Fitness\n\n- x\n\n---\n\n`;
 }
 
 function createMonthlyMarkdownFile(year, month) {

@@ -2,6 +2,8 @@
 
 ### Generate Task List
 
+Now updated to include fitness category
+
 Generate a month-long daily task list template.md
 
 Adjust arguments for the month and year in the [create organizer markdown file](create_organizer_markdown_file.js)
